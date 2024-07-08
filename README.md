@@ -18,7 +18,10 @@ To learn more before you start working with `Azienda`, see the following documen
 - [Candid Introduction](https://internetcomputer.org/docs/current/developer-docs/backend/candid/)
 
 
-![job ](https://github.com/pawan-cpu/Azienda/assets/83719360/59b2152d-4828-4498-a878-c1f4f8aaef0f)
+
+![choose](https://github.com/pawan-cpu/Azienda/assets/83719360/a7bafe36-e5e8-4cb1-849f-6ab4e0ba1faf)
+![exp](https://github.com/pawan-cpu/Azienda/assets/83719360/e2d904ca-5a16-467d-9f13-eb68de0bbdab)
+![on platform](https://github.com/pawan-cpu/Azienda/assets/83719360/a359e584-c3c3-4cae-b74b-eb2ab94b28e1)
 
 If you want to start working on your project right away, you might want to try the following commands:
 
