@@ -16,6 +16,7 @@ To learn more before you start working with `Azienda`, see the following documen
 - [ic-cdk](https://docs.rs/ic-cdk)
 - [ic-cdk-macros](https://docs.rs/ic-cdk-macros)
 - [Candid Introduction](https://internetcomputer.org/docs/current/developer-docs/backend/candid/)
+- Checkout:https://www.azienda.live/
 
 
 
