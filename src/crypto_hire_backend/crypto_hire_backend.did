@@ -1,0 +1,23 @@
+type Job = 
+  record {
+    id: nat64;
+    title: text;
+    description: text;
+    created_at: nat64;
+    applicant_name: vec text;
+    accepted_applicants: opt text;
+  };
+
+
+
+
+
+
+service : {
+    create_job: (record {title: text; description: text}) -> (Job);
+    apply_to_job: (nat64, text) -> (variant {Ok; Err: text});
+    withdraw_application: (nat64, text) -> (variant {Ok; Err: text});
+    cancel_job: (nat64) -> (variant {Ok; Err: text});
+    accept_job: (nat64, text) -> (variant {Ok; Err: text});
+    fetch_job: (nat64) -> (variant {Ok: Job; Err: text});
+};

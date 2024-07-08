@@ -1,0 +1,16 @@
+[package]
+name = "crypto_hire_backend"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+candid = "0.10"
+ic-cdk = "0.14.0"
+ic-cdk-timers = "0.8.0" # Feel free to remove this dependency if you don't need timers
+ic-stable-structures = "*"
+serde = "*"
