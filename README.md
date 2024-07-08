@@ -4,6 +4,10 @@ Welcome to our web3 Hiring portal `Azienda` built on Internet Computer. By defau
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
+![webpage](https://github.com/pawan-cpu/Azienda/assets/83719360/4cfc883b-e206-416a-90ab-00f5d87229a1)
+
+![job ](https://github.com/pawan-cpu/Azienda/assets/83719360/59b2152d-4828-4498-a878-c1f4f8aaef0f)
+
 To learn more before you start working with `Azienda`, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
@@ -12,6 +16,9 @@ To learn more before you start working with `Azienda`, see the following documen
 - [ic-cdk](https://docs.rs/ic-cdk)
 - [ic-cdk-macros](https://docs.rs/ic-cdk-macros)
 - [Candid Introduction](https://internetcomputer.org/docs/current/developer-docs/backend/candid/)
+
+
+![job ](https://github.com/pawan-cpu/Azienda/assets/83719360/59b2152d-4828-4498-a878-c1f4f8aaef0f)
 
 If you want to start working on your project right away, you might want to try the following commands:
 
